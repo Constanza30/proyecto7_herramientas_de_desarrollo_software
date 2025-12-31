@@ -1,4 +1,4 @@
-# 🚗 Panel Interactivo de Análisis de Anuncios de Vehículos
+# 🚗 Proyecto 7. Panel Interactivo de Análisis de Anuncios de Vehículos
 
 Aplicación web desarrollada con **Streamlit** para explorar de forma interactiva un conjunto de datos de anuncios de venta de vehículos en Estados Unidos.  
 El proyecto cubre el flujo completo de desarrollo: análisis exploratorio, construcción de una app web y despliegue en la nube.
