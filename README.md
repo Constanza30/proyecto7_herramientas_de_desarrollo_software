@@ -1,2 +1,3 @@
-# proyecto7_herramientas_de_desarrollo_software
-El presente repositorio es una aplicación web desarrollada con **Streamlit** para explorar de forma interactiva un conjunto de datos de anuncios de venta de vehículos en Estados Unidos.  
+# proyecto_7
+Proyecto del sprint 7
+https://proyecto-7-bn4q.onrender.com
